@@ -1,0 +1,1 @@
+console.log("How to use GitHub and VSCode!");
