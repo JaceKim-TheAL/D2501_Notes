@@ -6,6 +6,7 @@
 - GitHub 설치
 - VSCode의 Extension 설치
 
+
 ---
 
 ### 1. **Git 설치 확인**
