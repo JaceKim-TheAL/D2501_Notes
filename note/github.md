@@ -1,5 +1,5 @@
 # GitHub & VSCode 연동
-<div style="text-align: right">(final update in 2025.04.25)</div></br>
+<div style="text-align: right">(final update in 2025.04.25)</div>
 
 - GitHub 설치
 - VSCode의 Extension 설치
