@@ -1,8 +1,8 @@
+<p style="text-align: right"> 
+    <a href="./README.md">[INDEX]</a>
+</p>
+
 # MCP(Model Context Protocol)
-
-|-------------:|
-| [INDEX](./README.md) : |
-
 
 - 개념
 - 주요특징
