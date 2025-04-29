@@ -10,7 +10,7 @@
 - [FastAPI                 ][link-fastapi]
 - [PostgreSQL 사용법        ][link-postgres]
 
-[link-github    ]: ./github.md
-[link-fastapi   ]: ./postgresql.md
-[link-postgres  ]: ./postgresql.md
+[link-github    ]: ./s201_github.md
+[link-fastapi   ]: ./s202_fastapi.md
+[link-postgres  ]: ./s203_postgresql.md
 
