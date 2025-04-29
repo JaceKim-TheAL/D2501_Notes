@@ -1,10 +1,6 @@
 # MCP(Model Context Protocol)
-<div align="right">
-<span style="color:#808080; background-color:#fff5b1">&lt;&nbsp; final update in 2025.04.29 &nbsp;&gt;</span>
-</div>
-
-- GitHub 설치
-- VSCode의 Extension 설치
+- 개념
+- 주요특징
 
 ---
 - 개념 :
@@ -13,7 +9,7 @@
 
 > ![MCP의 기본구조](../images/s101_mcp_01.png)
 
-- 특징
+- 주요요특징
 <ol>
     <li> 개방형 표준: MCP는 JSON-RPC 2.0 기반으로 설계되어, 다양한 환경에서 AI 모델과 외부 시스템 간의 양방향 통신을 지원합니다.
     <li> 통합 효율성: 기존의 개별 API 연결 방식 대신, MCP는 하나의 표준화된 규칙을 제공하여 개발자들이 더 쉽게 시스템을 통합할 수 있도록 돕습니다.
