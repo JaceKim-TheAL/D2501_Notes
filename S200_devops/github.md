@@ -1,3 +1,7 @@
+<p style="text-align: right"> 
+    <a href="./README.md">[INDEX]</a>
+</p>
+
 # GitHub & VSCode 연동
 <div align="right">
 <span style="color:#808080; background-color:#fff5b1">&lt;&nbsp; final update in 2025.04.25 &nbsp;&gt;</span>

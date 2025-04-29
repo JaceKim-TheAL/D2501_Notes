@@ -1,6 +1,10 @@
 # DevOps
 : 자동화, 지속적 통합 & 배포, 협업 강화, 모니터링 & 피드백
 
+<div align="right">
+<span style="color:#808080; background-color:#fff5b1">&lt;&nbsp; final update in 2025.04.29 &nbsp;&gt;</span>
+</div>
+
 ### INDEX
 - [GitHub & VSCode 연동     ][link-github]
 - [PostgreSQL 사용법        ][link-postgres]
