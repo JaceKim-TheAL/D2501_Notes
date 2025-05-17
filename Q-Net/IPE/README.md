@@ -6,6 +6,7 @@
 
 ### INDEX
 ---
+- [국가자격시험 Q-Net  ][link-q-net]
 - [정보처리기사 취득방법][link-intro]
 
 
@@ -14,5 +15,6 @@
 - [정보처리기사 필기노트](./docu/정보처리기사_01_필기(요약).pdf)
 - [정보처리기사 실기노트](./docu/정보처리기사_02_실기(요약).pdf)
 
+[link-q-net  ]: https://www.q-net.or.kr/
 [link-intro  ]: ./introduction.md
 
