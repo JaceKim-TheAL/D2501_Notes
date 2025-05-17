@@ -5,10 +5,8 @@
 
 ---
 # 정보처리기사
-> Engineer Information Processing 
+> Information Processing Engineer
 
-<br/>
-<br/>
 
 ### 취득방법
 ---
