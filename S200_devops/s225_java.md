@@ -19,5 +19,3 @@
 - 실행 : java 클래스명
 > `java Hello`
 
-
-
