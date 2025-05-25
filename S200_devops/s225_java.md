@@ -18,4 +18,4 @@
 > `javac Hello.java -d class`
 - 실행 : java 클래스명
 > `java Hello`
-
+- VSCode에서 Run 이나 F5 로 실행하기보다는 Terminal 혹은 PowerShell 에서 실행
