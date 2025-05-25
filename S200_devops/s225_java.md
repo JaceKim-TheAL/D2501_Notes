@@ -8,9 +8,9 @@
 > 다운로드 : https://jdk.java.net/
 
 ### 시스템 환경변수
-- JAVA_HOME = C:\Java\jdk-24.0.1
-- Path = %Path%;%JAVA_HOME%\bin;
-- CLASSPATH = .;%JVAA_HOME%\lib;.\class;
+- `JAVA_HOME` = C:\Java\jdk-24.0.1
+- `Path` = %Path%;%JAVA_HOME%\bin;
+- `CLASSPATH` = .;%JVAA_HOME%\lib;.\class;
 <br/>
 
 ### 컴파일 및 실행
