@@ -14,6 +14,7 @@
 - [PostgreSQL 사용법          ][link-postgres]
 - [Rust Programming Language ][link-rust]
 - [C++20 개선사항 및 개발환경   ][link-cpp20]
+- [JAVA 개발환경 및 실행       ][link-java]
 
 ---
 
@@ -24,4 +25,5 @@
 [link-postgres  ]: ./s222_postgresql.md
 [link-rust      ]: ./s223_rust.md
 [link-cpp20     ]: ./s224_cpp20.md
+[link-java      ]: ./s225_java.md
 
