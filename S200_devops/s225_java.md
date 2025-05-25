@@ -11,12 +11,13 @@
 - JAVA_HOME = C:\Java\jdk-24.0.1
 - Path = %Path%;%JAVA_HOME%\bin;
 - CLASSPATH = .;%JVAA_HOME%\lib;.\class;
+<br/>
 
 ### 컴파일 및 실행
 - 컴파일 : javac 자바파일.java -d 클래스파일디렉토리
-> eg. javac Hello.java -d class
+> `javac Hello.java -d class`
 - 실행 : java 클래스명
-> eg. java Hello
+> `java Hello`
 
 
 
