@@ -47,4 +47,3 @@ Showcase your skills on your GitHub or resume with ease!!
 ```
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
 
-
