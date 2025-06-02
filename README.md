@@ -3,7 +3,7 @@ Jace's Key Notes and Documents
 
 ---
 ### I'm currently learning about
-[![관심사](https://skillicons.dev/icons?i=idea,vscode,github,docker,aws,gcp)]
+[![관심사](https://skillicons.dev/icons?i=idea,vscode,github,docker,aws,gcp)] <br/>
 [![관심사](https://skillicons.dev/icons?i=python,flask,fastapi,django,java,spring,vue)]
 
 ---
