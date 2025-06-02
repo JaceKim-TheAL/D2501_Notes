@@ -3,9 +3,9 @@ Jace's Key Notes and Documents
 
 ---
 ### I'm currently learning about
-[![관심사](https://skillicons.dev/icons?i=idea,vscode,github,docker,aws,gcp)] <br/>
-[![관심사](https://skillicons.dev/icons?i=python,fastapi,django,java,spring,rust)] <br/>
-[![관심사](https://skillicons.dev/icons?i=nodejs,nextjs,react,vue)] <br/>
+![관심사](https://skillicons.dev/icons?i=idea,vscode,github,docker,aws,gcp) <br/>
+![관심사](https://skillicons.dev/icons?i=python,fastapi,django,java,spring,rust) <br/>
+![관심사](https://skillicons.dev/icons?i=nodejs,nextjs,react,vue) <br/>
 
 ---
 ### Recent News
