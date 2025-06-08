@@ -1,4 +1,4 @@
-[![Skill_Icons_Title](./image/skill_icons.png)](https://skillicons.dev/)
+[![Skill_Icons_Title](./images/skill_icons.png)](https://skillicons.dev/)
 <br/>
 Showcase your skills on your GitHub or resume with ease!!
 
