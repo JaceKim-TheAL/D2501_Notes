@@ -25,6 +25,15 @@
     </td>
   </tr>
   <tr>
+    <td>SNS KeyBoard</td>
+    <td>
+      브라우즈에서 원하는 코드를 클릭후 복사하여 사용
+    </td>
+    <td>
+      <a href="https://snskeyboard.com/lib/">[Click]</a>
+    </td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
