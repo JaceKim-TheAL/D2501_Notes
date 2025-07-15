@@ -24,12 +24,10 @@
 
 <img src="./images/실기시험대비_01.png" width="500px">
 <br/>
-
-![필기시험대비](./images/실기시험대비_01.png)
-
-![필기시험대비](./images/실기시험대비_02.png)
-
-![필기시험대비](./images/실기시험대비_03.png)
-
-![필기시험대비](./images/실기시험대비_04.png)
+<img src="./images/실기시험대비_02.png" width="500px">
+<br/>
+<img src="./images/실기시험대비_03.png" width="500px">
+<br/>
+<img src="./images/실기시험대비_04.png" width="500px">
+<br/>
 
