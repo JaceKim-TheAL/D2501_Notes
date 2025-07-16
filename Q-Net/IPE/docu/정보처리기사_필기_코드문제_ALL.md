@@ -7,8 +7,7 @@
 - [C](https://complainrevolutionist.tistory.com/category/C)
 - [Java](https://complainrevolutionist.tistory.com/category/Java)
 - [SQL](https://complainrevolutionist.tistory.com/category/%EC%98%A4%EB%9D%BC%ED%81%B4%20SQL)
-  - [SQL 기출문제](#sql-기출문제)
-  - [기타](#기타)
+  - [SQL 기출문제](./정보처리기사_필기_코드문제_SQL.md)
 
 ---
 ### SQL 기출문제
