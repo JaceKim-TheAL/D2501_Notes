@@ -6,6 +6,7 @@
 
 - [C](https://complainrevolutionist.tistory.com/category/C)
 - [Java](https://complainrevolutionist.tistory.com/category/Java)
+- [Python](https://complainrevolutionist.tistory.com/category/Python)
 - [SQL](https://complainrevolutionist.tistory.com/category/%EC%98%A4%EB%9D%BC%ED%81%B4%20SQL)
   - [SQL 기출문제](./정보처리기사_필기_코드문제_SQL.md)
 
