@@ -274,6 +274,8 @@ UPDATE 사원   [      라    ]   부서  =  '퇴사'  WHERE 사원번호  = 123
 `정답` (가) VALUES   (나) **SELECT**   (다) FROM    (라) SET
 <br/>
 
+
+
 [[TOP]](#코드문제)
 ---
 ### 기타
