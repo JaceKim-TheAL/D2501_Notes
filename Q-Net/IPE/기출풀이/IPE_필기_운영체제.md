@@ -95,6 +95,38 @@
 <br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
+### LRU와 LFU 알고리즘
+`기출` 24년 1회 ♥️
+- 다음은 운영체제 페이지 순서를 참고하여 할당된 프레임의 수가 3개일 때  LRU와 LFU 알고리즘의 페이지 부재 횟수를 작성하시오.
+
+`정답` 
+(1) 6
+(2) 6
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### SRT 스케줄링
+`기출` 24년 2회 ♥️
+- 아래의 표를 확인하여 SRT 스케줄링의 평균 대기시간을 계산하여 작성하시오.
+| 프로세스 |	도착시간	| 서비스 시간 |
+|---|---|---| 
+| A	| 0	| 8 | 
+| B	| 1 |	4 |
+| C	| 2 |	9 |
+| D	| 3 |	5 |
+
+`정답` 6.5
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### 
+`기출` ♥️
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
 
 ---
 
