@@ -21,9 +21,9 @@
 ### [정보처리기사 C언어, Java, Python, SQL 기출문제 모음](https://complainrevolutionist.tistory.com/38)
 
 ### 기출문제
-- [예상-실기문제](https://complainrevolutionist.tistory.com/category/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/%EC%98%88%EC%83%81%EB%AC%B8%EC%A0%9C)
-- [예상-실기문제](https://complainrevolutionist.tistory.com/category/정보처리기사/예상문제)
+- [실기-예상문제](https://complainrevolutionist.tistory.com/category/정보처리기사/예상문제)
 - [이론-네트워크](https://complainrevolutionist.tistory.com/36)
+- [코딩-요약꿀팁](https://complainrevolutionist.tistory.com/category/정보처리기사/정처기%20코딩%20꿀팁)
 - [코딩-C++](https://complainrevolutionist.tistory.com/category/C)
 - [코딩-Java](https://complainrevolutionist.tistory.com/category/Java)
 - [코딩-Python](https://complainrevolutionist.tistory.com/category/Python)
