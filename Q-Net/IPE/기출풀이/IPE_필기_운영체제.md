@@ -75,7 +75,7 @@
 `정답` SJF, RR, SRT
 <br/>
 
-📊 CPU 스케줄링 알고리즘 비교
+📊 CPU 스케줄링 알고리즘 비교 
 | 항목 | SJF  | RR  | SRT | 
 | 용어 | Shortest Job First | Round Robin | Shortest Remaining Time | 
 | 스케줄링 방식 | 가장 짧은 작업 먼저 실행 | 순환 방식으로 일정 시간씩 실행 | 남은 시간이 가장 짧은 작업 우선 실행 | 
