@@ -342,7 +342,7 @@ HDLC 프로토콜은 데이터링크 계층의 대표적인 프로토콜로, 정
 `정답` ATM(Asynchronous Transfer Mode)
 <br/>
 
-**ATM (Asynchronous Transfer Mode)**는 
+**ATM (Asynchronous Transfer Mode)** 
 - 고속 네트워크에서 음성, 영상, 데이터 등 다양한 정보를 일정한 크기의 셀(Cell) 단위로 전송하는 비동기식 전송 방식
 - 이름 그대로 "비동기"라는 말은 고정된 시간 간격 없이 필요한 만큼만 데이터를 보내는 방식을 의미하죠.
 <br/>
@@ -365,11 +365,28 @@ HDLC 프로토콜은 데이터링크 계층의 대표적인 프로토콜로, 정
 <br/> 
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
-### laaS Paas SaaS
-`기출` 
-- 
+### 클라우드 서비스 모델 : laaS Paas SaaS
+`기출` 23년 3회 ♥️
+- 클라우드 유형 3가지
 
-`정답` 
+`정답` IaaS, PaaS, SaaS
+<br/>
+📊 클라우드 서비스 모델 비교 표
+| 항목 | IaaS (Infrastructure as a Service) | PaaS (Platform as a Service) | SaaS (Software as a Service) | 
+|-----|-----|-----|-----|
+| 제공 범위 | 서버, 스토리지, 네트워크 등 인프라 | 개발 플랫폼, 런타임, DB 등 | 완성된 소프트웨어 | 
+| 사용자 관리 범위 | OS, 미들웨어, 앱, 데이터 직접 관리 | 앱과 데이터만 관리 | 사용만 하면 됨 | 
+| 유연성/제어력 | 매우 높음 | 중간 | 낮음 | 
+| 사용 편의성 | 낮음 | 중간 | 매우 높음 | 
+| 초기 비용 | 낮음 (사용량 기반 과금) | 낮음 (사용량 기반 과금) | 낮음 (구독 기반 과금) | 
+| 대표 예시 | AWS EC2, Azure VM, GCP Compute Engine | Heroku, Google App Engine | Gmail, Salesforce, Office 365 | 
+| 적합한 대상 | 인프라 직접 운영하고 싶은 기업 | 개발에 집중하고 싶은 개발자 | 빠르게 소프트웨어를 쓰고 싶은 사용자 | 
+<br/>
+
+💡 요약 비유
+- IaaS: 자가용 → 직접 운전하고 관리
+- PaaS: 렌터카 → 운전은 하지만 정비는 업체가
+- SaaS: 택시 → 그냥 타고 목적지만 말하면 됨
 <br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
