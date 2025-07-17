@@ -292,7 +292,7 @@ OSI기본 참조 모델의 네트워크 계층에 속한다
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 ### hdlc 관련
-`기출` 23년 2회
+`기출` 23년 2회 ♥️
 - (가)~(마)를 쓰시오(원래는 <보기> 있는 문제) 
 ```
 HDLC 프로토콜은 데이터링크 계층의 대표적인 프로토콜로, 정보를 전송 제어 부호가 포함된 프레임이라는 단위로 분할하여 전송한다. 프로토콜의 구조는 프레임의 시작과 끝, 주소부, 제어부, 데이터부, 오류검출부로 구분된다.
@@ -328,19 +328,41 @@ HDLC 프로토콜은 데이터링크 계층의 대표적인 프로토콜로, 정
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 ### NAT
-`기출` 
-- 
+`기출` 23년 3회
+- 사설 네트워크에 속한 IP를 공인 IP 주소로 바꿔주는 네트워크 주소 변환 기술
 
-`정답` 
+`정답` NAT
 <br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 ### ATM
-`기출` 
-- 
+`기출` 23년 3회 ♥️
+- 비동기, Cell 크기가 53 Byte 프로토콜
 
-`정답` 
+`정답` ATM(Asynchronous Transfer Mode)
 <br/>
+
+**ATM (Asynchronous Transfer Mode)**는 
+- 고속 네트워크에서 음성, 영상, 데이터 등 다양한 정보를 일정한 크기의 셀(Cell) 단위로 전송하는 비동기식 전송 방식
+- 이름 그대로 "비동기"라는 말은 고정된 시간 간격 없이 필요한 만큼만 데이터를 보내는 방식을 의미하죠.
+<br/>
+
+📦 핵심 개념 요약 
+| 항목 | 설명 | 
+| --- | --- | 
+| 셀 구조 | 53바이트 고정 크기 (5바이트 헤더 + 48바이트 페이로드) | 
+| 전송 방식 | 비동기 시분할 다중화 (ATDM) | 
+| 통신 방식 | 연결 지향(Connection-oriented), 가상 경로(VP)와 가상 채널(VC) 기반 | 
+| 지원 서비스 | 실시간(CBR), 비실시간(VBR, ABR, UBR 등) 모두 가능 | 
+| 계층 구조 | 물리 계층 → ATM 계층 → AAL(ATM 적응 계층) → 사용자 계층 | 
+<br/> 
+
+🚀 왜 ATM이 중요한가요?
+- 고속 통신에 적합: 고정된 셀 크기로 빠른 처리가 가능해요.
+- 멀티미디어 통합: 음성, 영상, 데이터 모두 하나의 네트워크에서 처리 가능.
+- QoS 보장: 다양한 서비스 품질(QoS) 요구를 만족시킬 수 있어요.
+- 통계적 다중화: 채널에 데이터가 없으면 다른 채널에 자원을 할당해 효율적 자원 사용 가능
+<br/> 
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 ### laaS Paas SaaS
