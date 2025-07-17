@@ -11,3 +11,7 @@
 - [코딩-SQL](https://complainrevolutionist.tistory.com/category/%EC%98%A4%EB%9D%BC%ED%81%B4%20SQL)
 
 
+### 기출풀이
+- [업무프로세스](../기출풀이/정보처리기사_필기_업무프로세스.md)
+- [코드-SQL](../기출풀이/정보처리기사_필기_코드문제_SQL.md)
+
