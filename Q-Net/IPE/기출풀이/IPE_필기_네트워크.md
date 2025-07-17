@@ -47,6 +47,210 @@ RIP의 단점을 해결하여 새로운 기능을 지원하는 인터넷 프로�
 <br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
+### IPv6
+`기출` 20년 4회
+- 네트워크 및 인터넷과 관련된 다음 설명에 해당하는 용어를 영문으로 쓰시오
+```
+현재 사용하고 있는 IPv4의 주소 부족 문제를 해결하기 위해 개발됨
+16비트씩 8부분, 총 128비트로 구성되어 있다
+각 부분을 16진수로 표현하고 콜롬으로 구분한다
+```
+
+`정답` IPv6
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### NAT
+`기출` 20년 4회
+- 네트워크 및 인터넷과 관련된 다음 설명에 해당하는 용어를 쓰시오
+```
+인터넷 환경에서의 호스트 상호 간 통신에서 연결된 네트워크 접속 장치의 물리적 주소인 MAC주소를 이용하여 IP주소를 찾는 인터넷 계층의 프로토콜로, 역순 주소 결정 프로토콜이라 불린다
+```
+
+`정답` NAT
+<br/>
+
+**NAT(Network Address Translation)**는 네트워크에서 IP 주소를 변환해주는 기술이에요. 주로 사설 IP 주소를 공인 IP 주소로 바꿔서 인터넷에 접속할 수 있도록 해주는 역할을 하죠.
+
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### RARP
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### IPv6
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### IPv4 관련 문제
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### 가상 회선/데이터 그램
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### 데이터 링크/네트워크/표현 계층
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### 서브넷팅 문제
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### IGP/EGP/OSPF/BGF
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### 서브넷팅 문제
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### 가상회선/데이터그램
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### SSH
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### L2TP
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### ICMP
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### hamming
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### FEC
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### BEC
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### parity
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### CRC
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### hdlc 관련
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### NAT
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### ATM
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### laaS Paas SaaS
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### RIP
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
 ---
 ### 
 `기출` 
