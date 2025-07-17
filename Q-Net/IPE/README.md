@@ -10,13 +10,25 @@
 - [정보처리기사 취득방법][link-intro]
 
 
-#### 문서파일
+#### 요약노트
 - [정보처리기사 출제기준](./docu/정보처리기사%20출제기준(2020.1.1.~2022.12.31).hwp)
 - [정보처리기사 필기노트](./docu/정보처리기사_01_필기(요약).pdf)
 - [정보처리기사 실기노트](./docu/정보처리기사_02_실기(요약).pdf)
 
 [link-q-net  ]: https://www.q-net.or.kr/
 [link-intro  ]: ./introduction.md
+
+### [정보처리기사 C언어, Java, Python, SQL 기출문제 모음](https://complainrevolutionist.tistory.com/38)
+
+### 기출문제
+- [예상-실기문제](https://complainrevolutionist.tistory.com/category/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/%EC%98%88%EC%83%81%EB%AC%B8%EC%A0%9C)
+- [예상-실기문제](https://complainrevolutionist.tistory.com/category/정보처리기사/예상문제)
+- [이론-네트워크](https://complainrevolutionist.tistory.com/36)
+- [코딩-C++](https://complainrevolutionist.tistory.com/category/C)
+- [코딩-Java](https://complainrevolutionist.tistory.com/category/Java)
+- [코딩-Python](https://complainrevolutionist.tistory.com/category/Python)
+- [코딩-SQL](https://complainrevolutionist.tistory.com/category/%EC%98%A4%EB%9D%BC%ED%81%B4%20SQL)
+  - [SQL 기출문제](./정보처리기사_필기_코드문제_SQL.md)
 
 ---
 
