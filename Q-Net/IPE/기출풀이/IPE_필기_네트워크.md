@@ -392,7 +392,7 @@ HDLC 프로토콜은 데이터링크 계층의 대표적인 프로토콜로, 정
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 ### RIP
-`기출` 23년 3회
+`기출` 23년 3회 ♥️
 -  IGP 중 거리벡터 알고리즘, 라우팅 프로토콜
 
 `정답` RIP
@@ -426,9 +426,52 @@ HDLC 프로토콜은 데이터링크 계층의 대표적인 프로토콜로, 정
 <br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
+### OSPF
+`기출` 24년 1회 ♥️
+- 아래의 내용에서 설명하는 네트워크 용어를 영문 약자로 작성하시오
+```
+1. 대표적인 링크 상태 라우팅 프로토콜이다. 이것은 인터넷에서 연결된 링크의 상태를 감시하여 최적의 경로를 선택한다는것이다.
+2. 단일 자율 시스템 내에서 라우팅 정보를 배포하는 데 사용되는 내부 게이트웨이 프로토콜이다.
+3. 모든 대상에 도달하기 위한 최단 경로를 구축하고 계산하며 최단 경로는 Dijkstra 알고리즘을 사용하여 계산된다.
+```
+
+`정답` OSPF (Open Shortest Path First)
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+
+### 패킷 교환 방식
+`기출` 24년 2회 ♥️
+- 패킷 교환 방식 중에 연결형과 비연결형에 해당하는 방식을 작성하시오. 
+```
+① 연결형 교환 방식
+② 비연결형 교환 방식
+```
+
+`정답` 
+① 가상회선 
+② 데이터그램
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### Ad-hoc Network
+`기출` 24년 3회 ♥️
+- 다음은 네트워크에 대한 문제이다.  아래 내용을 보고 알맞는 용어를 작성하시오. 
+```
+ - 중앙 관리나 고정된 인프라 없이 임시로 구성되는 네트워크이다. 
+ - 일반적으로 무선 통신을 통해 노드들이 직접 연결되어 데이터를 주고받는다.
+ - 긴급 구조, 긴급 회의, 군사적인 상황 등에서 유용하게 활용될 수 있다.
+```
+
+`정답` Ad-hoc Network
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
 ---
+
+<!--
 ### 
-`기출` 
+`기출` ♥️
 - 
 
 `정답` 
@@ -436,3 +479,4 @@ HDLC 프로토콜은 데이터링크 계층의 대표적인 프로토콜로, 정
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 ---
+-->
