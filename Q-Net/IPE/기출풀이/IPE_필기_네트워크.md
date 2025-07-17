@@ -392,10 +392,37 @@ HDLC 프로토콜은 데이터링크 계층의 대표적인 프로토콜로, 정
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 ### RIP
-`기출` 
-- 
+`기출` 23년 3회
+-  IGP 중 거리벡터 알고리즘, 라우팅 프로토콜
 
-`정답` 
+`정답` RIP
+<br/>
+
+ **RIP (Routing Information Protocol)** 
+ - 네트워크에서 라우터들이 서로 경로 정보를 교환하여 최적의 경로를 자동으로 설정할 수 있도록 도와주는 동적 라우팅 프로토콜
+ - 특히 거리 벡터(Distance Vector) 방식으로 작동하며, **홉 수(Hop Count)** 를 기준으로 경로를 선택
+
+📦 RIP의 주요 특징
+| 항목 | 설명 | 
+|-----|-----| 
+| 라우팅 방식 | 거리 벡터 알고리즘 (Bellman-Ford 기반) | 
+| 경로 선택 기준 | 홉 수 (최대 15홉까지, 16은 도달 불가로 간주) | 
+| 라우팅 정보 교환 | 30초마다 주기적으로 전체 라우팅 테이블을 브로드캐스트로 전송  | 
+| 프로토콜 유형 | IGP (Interior Gateway Protocol) – 내부망용 | 
+| 사용 포트 | UDP 520번 (RIPv1, RIPv2), UDP 521번 (RIPng)  | 
+| 버전 | RIPv1 (Classful), RIPv2 (Classless + VLSM 지원), RIPng (IPv6 지원) | 
+<br/>
+
+✅ RIP의 장점
+- 설정이 간단하고 자원 소모가 적음
+- 대부분의 네트워크 장비에서 지원됨
+- 소규모 네트워크에 적합
+<br/>
+
+☑ RIP의 단점
+- 홉 수만으로 경로를 판단 → 대역폭이나 지연 시간은 고려하지 않음
+- 느린 수렴 속도 → 네트워크 변화에 대한 반응이 느림
+- 루핑(Looping) 문제 발생 가능 → 이를 방지하기 위한 다양한 기법 필요 (Split Horizon, Poison Reverse 등)
 <br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
