@@ -3,7 +3,7 @@
 
 # 필기요약 - 운영체제
 
-- KeyWord : 스케줄링
+- KeyWord : 스케줄링, 운영체제, 유닉스 명령문, 프로세스, CPU 스케줄링 알고리즘, LRU와 LFU 알고리즘, SRT 스케줄링, 
 
 ---
 ### 스케줄링
@@ -136,8 +136,8 @@
 
 📦 핵심 개념
 - 캐시가 가득 찼을 때, 가장 최근에 사용되지 않은 데이터를 제거
-- **참조 지역성(Locality of Reference)**을 기반으로 설계됨
-<br/>
+- **참조 지역성(Locality of Reference)** 을 기반으로 설계됨 <br/>
+  → 최근에 사용된 데이터는 앞으로도 사용될 가능성이 높다는 가정 <br/>
 
 **LRU (Least Recently Used)** 알고리즘에서의 페이지 부재 횟수는 페이지 요청 순서와 프레임 수에 따라 달라집니다. <br/>
 
@@ -164,10 +164,9 @@
 <br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
-
+<!--
 ---
 
-<!--
 ### 
 `기출` ♥️
 - 
