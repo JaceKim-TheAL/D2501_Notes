@@ -167,7 +167,7 @@ OSI 7 Layer는 다른 시스템 간의 원활한 통신을 위해 ISO(국제표�
 <br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
-### IGP/EGP/OSPF/BGF
+### Routing Protocol : IGP/EGP/OSPF/BGF
 `기출` 
 - 다음 설명에 대해 보기에 주어진 답을 골라 작성하시오
 ```
@@ -184,7 +184,7 @@ OSI 7 Layer는 다른 시스템 간의 원활한 통신을 위해 ISO(국제표�
 (라) : BGP
 <br/>
 
-**라우팅 프로토콜(Routing Protocol)**은 네트워크에서 데이터가 목적지까지 가장 효율적인 경로로 전달되도록 도와주는 규칙과 알고리즘
+**라우팅 프로토콜(Routing Protocol)** 은 네트워크에서 데이터가 목적지까지 가장 효율적인 경로로 전달되도록 도와주는 규칙과 알고리즘
 
 **라우팅 프로토콜의 분류** <br/> 
 | 분류 | 설명 | 
