@@ -23,5 +23,37 @@
 
 `정답` ICMP
 <br/>
-<hr style="height: 1px; background-color: red; border: none; width: 80%;">
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
+### Protocol
+`기출` 
+- 심리학자 톰 마릴은 컴퓨터가 메시지를 전달하고 메시지가 제대로 도착했는지 확인하며 도착하지 않았을 경우 메시지를 재전송하는 일련의 방법을 기술적 은어를 뜻하는 ( )이라는 용어로 정의하였다
+
+`정답` 프로토콜
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+### OSPF
+`기출` 20년 3회
+- 다음 설명에 해당하는 라우팅 프로토콜을 쓰시오.
+```
+RIP의 단점을 해결하여 새로운 기능을 지원하는 인터넷 프로토콜
+최단 경로 라우팅 지원
+대규모 네트워크에 많이 사용
+최단 경로 탐색에 Dijkstra 알고리즘 사용
+```
+
+`정답` OSPF
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+---
+### 
+`기출` 
+- 
+
+`정답` 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
+---
