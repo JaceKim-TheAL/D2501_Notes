@@ -23,5 +23,5 @@
 
 `정답` ICMP
 <br/>
-<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+<hr style="height: 1px; background-color: red; border: none; width: 80%;">
 
