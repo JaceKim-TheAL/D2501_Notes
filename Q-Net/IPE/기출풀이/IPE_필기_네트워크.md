@@ -15,6 +15,7 @@
 
 `정답` 구문, 의미, 시간
 <br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 ### ICMP
 `기출` 20년 3회 
@@ -22,3 +23,5 @@
 
 `정답` ICMP
 <br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
