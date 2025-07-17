@@ -46,7 +46,7 @@ RIP의 단점을 해결하여 새로운 기능을 지원하는 인터넷 프로�
 `정답` OSPF
 <br/>
 
-**OSPF (Open Shortest Path First)**는 네트워크에서 최적의 경로를 자동으로 계산해주는 동적 라우팅 프로토콜이에요. 특히 중대형 네트워크에서 많이 사용되며, 링크 상태 기반(Link-State) 라우팅 방식과 다익스트라(Dijkstra) 알고리즘을 활용해 빠르고 안정적인 경로를 설정합니다.
+**OSPF (Open Shortest Path First)** 는 네트워크에서 최적의 경로를 자동으로 계산해주는 동적 라우팅 프로토콜이에요. 특히 중대형 네트워크에서 많이 사용되며, 링크 상태 기반(Link-State) 라우팅 방식과 다익스트라(Dijkstra) 알고리즘을 활용해 빠르고 안정적인 경로를 설정합니다.
 <br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
@@ -74,7 +74,7 @@ RIP의 단점을 해결하여 새로운 기능을 지원하는 인터넷 프로�
 `정답` NAT
 <br/>
 
-**NAT(Network Address Translation)**는 네트워크에서 IP 주소를 변환해주는 기술이에요. 주로 사설 IP 주소를 공인 IP 주소로 바꿔서 인터넷에 접속할 수 있도록 해주는 역할을 하죠.
+**NAT(Network Address Translation)** 는 네트워크에서 IP 주소를 변환해주는 기술이에요. 주로 사설 IP 주소를 공인 IP 주소로 바꿔서 인터넷에 접속할 수 있도록 해주는 역할을 하죠.
 <br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
@@ -88,7 +88,7 @@ RIP의 단점을 해결하여 새로운 기능을 지원하는 인터넷 프로�
 `정답` RARP
 <br/>
 
-**RARP (Reverse Address Resolution Protocol)**는 네트워크에서 MAC 주소를 기반으로 IP 주소를 알아내는 프로토콜이에요. 말 그대로 ARP(Address Resolution Protocol)의 "역방향" 버전이죠.
+**RARP (Reverse Address Resolution Protocol)** 는 네트워크에서 MAC 주소를 기반으로 IP 주소를 알아내는 프로토콜이에요. 말 그대로 ARP(Address Resolution Protocol)의 "역방향" 버전이죠.
 <br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
