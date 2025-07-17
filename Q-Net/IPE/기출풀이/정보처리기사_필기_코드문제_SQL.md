@@ -1,18 +1,7 @@
-# 정보처리기사 실기 노트 정리
-
-## 코드문제
-
-### [정보처리기사 C언어, Java, Python, SQL 기출문제 모음](https://complainrevolutionist.tistory.com/38)
-
-- [C](https://complainrevolutionist.tistory.com/category/C)
-- [Java](https://complainrevolutionist.tistory.com/category/Java)
-- [SQL](https://complainrevolutionist.tistory.com/category/%EC%98%A4%EB%9D%BC%ED%81%B4%20SQL)
-  - [SQL 기출문제](#sql-기출문제)
-  - [기타](#기타)
-
+[[IPE-정보처리기사]](https://github.com/JaceKim-TheAL/D2501_Notes/tree/main/Q-Net/IPE)
 ---
-### SQL 기출문제
- 
+
+# 코드문제 - SQL 기출문제
 
 - `SQL문 작성` [20년 2회 - 6번]
   - 3, 4학년의 학번, 이름을 조회한다
