@@ -1,70 +1,67 @@
 [[IPE-정보처리기사]](https://github.com/JaceKim-TheAL/D2501_Notes/tree/main/Q-Net/IPE)
 ---
 
+
 # 예상문제 - 시큐리티
 
 1. 메모리상에서 프로그램의 복귀 주소와 변수사이에 특정 값을 저장해 두었다가 그 값이 변경되었을 경우 오버플로우 상태로 가정하여 프로그램 실행을 중단하는 기술
+<br/>
 
 `정답` 스택가드
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 2. 크래커가 침입하여 백도어를 만들어 놓거나, 설정 파일을 변경했을 때 분석하는 도구
+<br/>
 
 `정답` tripwire
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 3. 여러 개의 독립된 통신장치가 UWB(Ultra Wideband)기술 또는 블루투스 기술을 사용하여 통신망을 형성하는 무선 네트워크 기술
+<br/>
 
 `정답` PICONET
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 4. 소인수 분해 문제를 이용한 공개키 암호화 기법에 널리 사용되는 암호 알고리즘 기법
+<br/>
 
 `정답` RSA
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 5. CPM 네트워크가 다음과 같을 때 임계경로의 소요기일을 구하시오
 
+<br/>
 
 `정답` 14일
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 6. 기존 무선 랜의 한계 극복을 위해 등장하였으며, 대규모 디바이스의 네트워크 생성에 최적화되어 차세대 이동통신, 홈네트워킹, 공공 안전 등의 특수목적을 위한 새로운 방식의 네트워크 기술
 
 `정답` Mesh Network
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 7. 웹에서 제공하는 정보 및 서비스를 이용하여 새로운 소프트웨어나 서비스, 데이터베이스 등을 만드는 기술
 
 `정답` Mashup
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 8. 대용량 데이터를 분산 처리하기 위한 목적으로 개발된 프로그래밍 모델로 google에 의해 고안된 기술로써 대표적인 대용량 데이터 처리를 위한 병렬 처리 기법을 제공한다.  (관련 설명에 해당하는 용어를 쓰시오)
 
 `정답` MapReduce
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 9. 컴퓨터 운영체제의 커널에 보안 기능을 추가한 것으로 운영체제의 보안상 결함으로 인하여 발생 가능한 각종 해킹으로부터 시스템을 보호하기 위하여 사용되는 것
 
 `정답` Secure OS
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 10. 다음은 소프트웨어 재사용의 종류이다. 설명에 맞는 것을 영어로 쓰시오.
@@ -77,21 +74,18 @@
 가. Composition-Based(합성 중심)
 나. Generation-Based(생성 중심)
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 11.  ICMP 플러드, SYN flood, UDP flood 및 Smurf attack과 같은 다양한 DDoS 공격을 수행하는 컴퓨터 프로그램 세트
 
 `정답` Tribe Flood Network 또는 TFN
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 12. 웹페이지에 악의적인 스크립트를 포함시켜 사용자 측에서 실행되게 유도함으로써, 정보유출 등의 공격을 유발할 수 있는 취약점을 쓰시오.
 
 `정답` XSS
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 13. 다음은 접근 통제 방식이다. 해당하는 용어의 약어를 쓰시오.
@@ -106,28 +100,24 @@
 ㄴ. MAC(Mandatory Access Control)     <br/>
 ㄷ. RBAC(Role based Access Control)   <br/>
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 14. SoftTech사에서 개발된 것으로 구조적 요구 분석을 하기 위해 블록 다이어그램을 채택한 자동화 도구
 
 `정답` SADT(Structure Analysis and Design Technique)
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 15. 하드디스크와 같은 데이터 저장장치를 호스트 버스 어댑터에 직접 연결하는 방식
 
 `정답` DAS(Direct Attached Storage)
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 16. 전기 및 정보통신기술을 활용하여 전력망을 지능화, 고도화함으로써 고품질의 전력서비스를 제공하고 에너지 이용효율을 극대화하는 전력망
 
 `정답` 스마트 그리드
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 17. 사물통신, 사물인터넷과 같이 대역폭이 제한된 통신환경에 최적화하여 개발된 푸시기술 기반의 경량 메시지 전송 프로토콜, IBM이 주도해서 개발
@@ -136,62 +126,53 @@ TCP/IP 기반 네트워크에서 동작하는 발행-구독 기반의 메시징 
 
 `정답` MQTT
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 18. 서로 다른 네트워크 대역에 있는 호스트들 상호간에 통신할 수 있도록 해주는 네트워크 장비
 
 `정답` 라우터
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 19. 서버에 열린 포트 정보를 스캐닝해서 보안취약점을 찾는데 사용하는 도구
 
 `정답` nmap
  
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 20. 네트워크상에서 광채널 스위치의 이점인 고속 전송과 장거리 연결 및 멀티 프로토콜 기능을 활용하여 각기 다른 운영체제를 가진 여러 기종들이 네트워크상에서 동일 저장장치의 데이터를 공유하게 함으로써 여러 개의 저장장치나 백업 장비를 단일화시킨 시스템
 
 `정답` SAN
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 21. 시스템에 저장되는 패스워드들은 Hash 또는 암호화 알고리즘의 결과 값으로 저장된다. 이때 암호공격을 막기 위해 똑같은 패스워드들이 다른 암호 값으로 저장되도록 추가되는 값을 의미하는 것
 
 `정답` Salt
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 22. 특정 사이트에 매우 많은 ICMP Echo를 보내면, 이에 대한 응답(Respond)을 하기 위해 시스템 자원을 모두 사용해버려 시스템이 정상적으로 동작하지 못하도록 하는 공격방법
 
 `정답` Ping Flood
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 23. 가상화를 적용하여 필요한 공간만큼 나눠 사용할 수 있도록 하며 서버 가상화와 유사한 기술인데 컴퓨터 소프트웨어로 규정하는 데이터 스토리지 체계이며 일정 조직 내 여러 스토리지를 하나처럼 관리하오 운용하는 컴퓨터 이용 환경이다.
 
 `정답` Software Defined Storage
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 24. 물리적 배치와 상관없이 논리적으로 LAN을구성하여 Broadcast Domain을 구분할 수있게 해주는 기술로 접속된 장비들의 성능향상 및 보안성 증대 효과가 있는 것
 
 `정답` VLAN
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 25. 구글의 구글 브레인 팀이 제작하여 공개한 기계 학습(Machine Leaming)을 위한 오픈소스 소프트웨어 라이브러리
 
 `정답` 텐서플로(TensorFlow)
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 26. 다음은 보안 솔루션에 대한 설명이다. 알맞은 용어를 쓰시오
@@ -206,70 +187,60 @@ TCP/IP 기반 네트워크에서 동작하는 발행-구독 기반의 메시징 
 ㄴ : IPS(Intrusion Prevention System)) <br/>
 ㄷ : DLP(Data Leakage/Loss Prevention) <br/>
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 27. 프로젝트 상황 특성에 맞게 정의된 소프트웨어 개발 방법론 절차, 사용기법 등을 수정 및 보완하는 작업
 
 `정답` 테일러링(Tailoring)
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 28. OSI 7 Layer 전 계층의 프로토콜과 패킷 내부의 콘텐츠를 파악하여 침입 시도, 해킹 등을 탐지하고 트래픽을 조정하기 위한 패킷 분석 기술
 
 `정답` DPI(Deep Packet Inspection)
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 29. 컨테이너 응용프로그램의 배포를 자동화하는 오픈소스 엔진으로 소프트웨어 컨테이너 안에 응용 프로그램들을 배치시키는 일을 자동화해 주는 오픈 소스 프로젝트이자 소프트웨어
 
 `정답` Docker
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 30. 1990년대 David Clock이 처음 제안한 것으로 비정상적인 접근의 탐지를 위해 의도적으로 설치해 둔 시스템이고 침입자를 속여 실제 공격당하는 것처럼 보여줌으로써 크래커를 추적 및 공격기법의 정보를 수집하는 역할을 하며 쉽게 공격자에게 노출되어야 하며 쉽게 공격이 가능이 가능한 것처럼 취약해 보이는 시스템
 
 `정답` Honeypot
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 31. 위조된 매체 접근 제어(MAC) 주소를 지속적으로 네트워크로 흘려보내, 스위치 MAC 주소 테이블의 저장 기능을 혼란시켜 더미 허브(Dummy Hub)처럼 작동하게 하는 공격
 
 `정답` Switch Jamming
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 32. 각 시스템 간에 공유 디스크를 중심으로 클러스터링으로 엮어 다수의 시스템을 동시에 연결할 수 있도록 하며 여러 가지 방식으로 구현되고 2개의 서버를 연결하는 것으로 2개의 시스템이 각각 업무를 수행하도록 구현하는 방식이 널리 사용되는 정보시스템
 
 `정답` 고가용성 솔루션(HACMP:High Availability Cluster Multi Processing)
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 33. 네트워크를 제어부, 데이터 전달부로 분리하여 네트워크 관리자가 보다 효율적으로 네트워크를 제어, 관리할 수 있는 기술로 기존의 라우터, 스위치 등과 같이 하드웨어에 의존하는 네트워크 체계에서 안정성, 속도, 보안 등을 소프트웨어로 제어, 관리하기 위해 개발된 IT 기술
 
 `정답` SDN(Software Defined Networking)
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 34. 자신의 신원을 시스템에서 증명하는 과정으로 아이디와 패스워드를 입력하는 과정이 가장 일반적인 예시인 이 시스템의 동작을 영어로 쓰시오. 
 
 `정답` Authentication
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 35. 시스템 공격 기법 중 하나로 허용범위 이상의 ICMP 패킷을 전송하여 대상 시스템의 네트워크를 마비시키는 공격 기법
 
 `정답` Ping of Death
 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 36. 어떤 외부 컴퓨터가 접속되면 접속 인가 여부를 점검해서 인가된 경우에는 접속이 허용되고, 그 반대의 경우에는 거부할 수 있는 접근제어 유틸리티
@@ -285,7 +256,6 @@ TCP/IP 기반 네트워크에서 동작하는 발행-구독 기반의 메시징 
 - 
 
 `정답` 
-<br/>
 <hr style="height: 2px; background-color: gray; border: none; width: 80%;">
 
 ---
