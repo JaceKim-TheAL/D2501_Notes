@@ -5,7 +5,7 @@
 
 - KeyWord : 데이터 마이닝, Linked Open Data, 분산 컴퓨팅, 하둡(Hadoop), 블록체인, 애드 혹 네트워크, Trustzone, typosquatting
 
----
+--- 
 ### 데이터 마이닝0
 `기출` 20년 1회 ♥️
 - 데이터 마이닝의 개념을 간략히 서술하시오.
