@@ -29,6 +29,9 @@
 - [코딩-Python](https://complainrevolutionist.tistory.com/category/Python)
 - [코딩-SQL](https://complainrevolutionist.tistory.com/category/%EC%98%A4%EB%9D%BC%ED%81%B4%20SQL)
 
+- [코딩-C(포인터심화,구조체)](https://complainrevolutionist.tistory.com/139)
+- [코딩-Python](https://complainrevolutionist.tistory.com/40)
+
 ### 기출풀이
 - [기술용어](./기출풀이/IPE_필기_기술용어.md)
 - [네트워크](./기출풀이/IPE_필기_네트워크.md)
