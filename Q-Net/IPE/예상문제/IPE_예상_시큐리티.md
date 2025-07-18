@@ -77,6 +77,9 @@
 가. Composition-Based(합성 중심)
 나. Generation-Based(생성 중심)
 
+<br/>
+<hr style="height: 2px; background-color: gray; border: none; width: 80%;">
+
 11.  ICMP 플러드, SYN flood, UDP flood 및 Smurf attack과 같은 다양한 DDoS 공격을 수행하는 컴퓨터 프로그램 세트
 
 `정답` Tribe Flood Network 또는 TFN
