@@ -80,7 +80,7 @@ HTTP/HyperText/HTML
 ```
 foo://localhost:8080/over/there?name=ferret#nose
 ────  ────────────── ────────── ─────────── ──── 
- ❶          ❷             ❸          ❹        ❺ 
+ ①          ②             ③          ④        ⑤
 
 <보기>
 query : 서버에 전달할 추가 데이터
