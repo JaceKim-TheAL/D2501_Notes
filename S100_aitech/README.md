@@ -5,7 +5,7 @@
 
 - [HyperFlow AI : Generative AI Platform][link-hyperflow]
 - [MCP(Model Context Protocol) ][link-mcp]
-- [Claude : 언어모델            ][link-claude]
+- [Claude : Anthropic이 개발한 차세대 AI 챗봇 ][link-claude]
 
 [link-hyperflow]: https://github.com/JaceKim-TheAL/D2503_HypreFlow_AI/blob/main/docu/HF%EB%A6%B4%EB%A6%AC%EC%8A%A41.0_D01.md
 [link-mcp    ]: ./s101_mcp.md
