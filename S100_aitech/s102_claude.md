@@ -94,11 +94,6 @@ https://gptskorea.com/BLOG/?bmode=view&idx=156263131
     - **API 연동 지원** : 외부 서비스와의 통합을 쉽게 구현
 <br/>
 
-- 현업 개발자들이 추천하는 조합
-    - `GitHub Copilot + VS Code`: 가장 널리 쓰이는 조합으로, 다양한 언어와 프레임워크에 대응
-    - `Cursor IDE` : ChatGPT 기반으로 대화형 코딩이 가능해 학습과 개발을 동시에 진행 가능
-<br/>
-
 - 코딩특화 AI 비교
     | AI 도구 | 주요 기능 | 특징 및 장점 | 
     |--------|----------|------------|
@@ -107,6 +102,11 @@ https://gptskorea.com/BLOG/?bmode=view&idx=156263131
     | Tabnine              | AI 기반 코드 자동 완성 | 로컬에서 작동 가능, <br/> 팀 협업 기능 제공 | 
     | Cursor               | ChatGPT 기반의 IDE, <br/> 코드 분석 및 리팩토링 지원 | 대화형 코드 편집, <br/> 문맥 기반 코드 이해력 우수 | 
     | Codeium              | 무료 코드 자동 완성, <br/> 다양한 언어 및 IDE 지원 | 빠른 응답 속도, <br/> 팀 기능 포함 | 
+<br/>
+
+- 현업 개발자들이 추천하는 조합
+    - `GitHub Copilot + VS Code`: 가장 널리 쓰이는 조합으로, 다양한 언어와 프레임워크에 대응
+    - `Cursor IDE` : ChatGPT 기반으로 대화형 코딩이 가능해 학습과 개발을 동시에 진행 가능
 <br/>
 
 [[TOP]](#클로드claude)
