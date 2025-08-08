@@ -1,5 +1,6 @@
 # INDEX
 ---
+<!-- 
 - [D2501_Notes: Jace's Key Notes and Documents     ][D2501_01]
 - [D2502_Docker: 컨테이너 기반의 가상화 플랫폼     ][D2502_01]
 - [D2502_FastAPI: 파이썬 표준 타입 힌트에 기초한 Python의 API를 빌드하기 위한 웹 프레임워크     ][D2502_02]
@@ -16,9 +17,7 @@
 - [D2505_WebCrawling: 웹크롤링으로 소셜데이터 수집     ][D2505_05]
 - [D2506_FAISS: Facebook AI Research에서 개발한 고차원 벡터 검색 및 유사성 검색을 위한 라이브러리     ][D2506_01]
 - [D2506_LangChain_RAG: 랭체인과 라그를 활용한 LLM Application 개발     ][D2506_02]
-- [D2506_Mojo: AI 개발자를 위한 새로운 프로그래밍 언어 (Python의 사용성과 C++의 성능을 결합한 혁신적인 언어)     ][D2506_03]
-
----
+- [D2506_Mojo: AI 개발자를 위한 새로운 프로그래밍 언어 (Python의 사용성과 C++의 성능을 결합한 혁신적인 언어)     ][D2506_03] -->
 
 | Code  | Title   | Description |
 |:--------:|:--------|:---------------|
