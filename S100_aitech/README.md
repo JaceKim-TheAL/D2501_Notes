@@ -3,7 +3,7 @@
 <span style="color:#808080; background-color:#fff5b1">&lt;&nbsp; final update in 2025.04.29 &nbsp;&gt;</span>
 </div>
 
-- [HyperFlow AI : Generative AI Platform][link-hyperflow]
+- [HyperFlow AI : 미리내가 개발한 생성형AI Platform ][link-hyperflow]
 - [MCP(Model Context Protocol) ][link-mcp]
 - [Claude : Anthropic이 개발한 차세대 AI 챗봇 ][link-claude]
 
