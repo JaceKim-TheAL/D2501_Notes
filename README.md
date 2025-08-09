@@ -35,8 +35,10 @@ Jace's Key Notes and Documents
 | D2505_01  | JavaScript       | [다양한 스타일과 패러다임을 지원하는 강력한 프로그래밍 언어인 자바스크립트 로드맵           ][D2505_01] | 
 | D2505_02  | Nodejs           | [Chrome V8 자바스크립트 엔진으로 빌드된 JavaScript Runtime Environment 으로 주로 서버 사이드 애플리케이션 개발에 사용되는 소프트웨어 플랫폼     ][D2505_02] | 
 | D2505_03  | React            | [Facebook에서 개발한 오픈 소스 JavaScript 라이브러리                               ][D2505_03] | 
-| D2505_04  | TypeScript       | [JavaScript를 포함하는 수퍼셋으로 브라우저, 운영체제에 상관없이 이용 가능한 오픈소스     ][D2505_04] | 
-| D2505_05  | WebCrawling      | [웹크롤링으로 소셜데이터 수집                                                      ][D2505_05] | 
+| D2505_04  | Vuejs            | [사용자 인터페이스를 구축하기 위한 프로그레시브 JavaScript 프레임워크
+][D2505_04] | 
+| D2505_05  | TypeScript       | [JavaScript를 포함하는 수퍼셋으로 브라우저, 운영체제에 상관없이 이용 가능한 오픈소스     ][D2505_05] | 
+| D2505_06  | WebCrawling      | [웹크롤링으로 소셜데이터 수집                                                      ][D2505_06] | 
 | D2506_01  | FAISS            | [Facebook AI Research에서 개발한 고차원 벡터 검색 및 유사성 검색을 위한 라이브러리     ][D2506_01] | 
 | D2506_02  | LangChain_RAG    | [랭체인과 라그를 활용한 LLM Application 개발                                       ][D2506_02] | 
 | D2507_01  | Mojo             | [AI 개발자를 위한 새로운 프로그래밍 언어 (Python의 사용성과 C++의 성능을 결합한 혁신적인 언어)     ][D2507_01] | 
@@ -56,7 +58,8 @@ Jace's Key Notes and Documents
 [D2505_02]: https://github.com/JaceKim-TheAL/D2505_Nodejs 
 [D2505_03]: https://github.com/JaceKim-TheAL/D2505_React 
 [D2505_04]: https://github.com/JaceKim-TheAL/D2505_TypeScript 
-[D2505_05]: https://github.com/JaceKim-TheAL/D2505_WebCrawling 
+[D2505_05]: https://github.com/JaceKim-TheAL/D2505_Vuejs 
+[D2505_06]: https://github.com/JaceKim-TheAL/D2505_WebCrawling 
 [D2506_01]: https://github.com/JaceKim-TheAL/D2506_FAISS 
 [D2506_02]: https://github.com/JaceKim-TheAL/D2506_LangChain_RAG 
 [D2506_03]: https://github.com/JaceKim-TheAL/D2506_Mojo 
