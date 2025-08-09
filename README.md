@@ -35,8 +35,7 @@ Jace's Key Notes and Documents
 | D2505_01  | JavaScript       | [다양한 스타일과 패러다임을 지원하는 강력한 프로그래밍 언어인 자바스크립트 로드맵           ][D2505_01] | 
 | D2505_02  | Nodejs           | [Chrome V8 자바스크립트 엔진으로 빌드된 JavaScript Runtime Environment 으로 주로 서버 사이드 애플리케이션 개발에 사용되는 소프트웨어 플랫폼     ][D2505_02] | 
 | D2505_03  | React            | [Facebook에서 개발한 오픈 소스 JavaScript 라이브러리                               ][D2505_03] | 
-| D2505_04  | Vuejs            | [사용자 인터페이스를 구축하기 위한 프로그레시브 JavaScript 프레임워크
-][D2505_04] | 
+| D2505_04  | Vuejs            | [사용자 인터페이스를 구축하기 위한 프로그레시브 JavaScript 프레임워크                  ][D2505_04] | 
 | D2505_05  | TypeScript       | [JavaScript를 포함하는 수퍼셋으로 브라우저, 운영체제에 상관없이 이용 가능한 오픈소스     ][D2505_05] | 
 | D2505_06  | WebCrawling      | [웹크롤링으로 소셜데이터 수집                                                      ][D2505_06] | 
 | D2506_01  | FAISS            | [Facebook AI Research에서 개발한 고차원 벡터 검색 및 유사성 검색을 위한 라이브러리     ][D2506_01] | 
