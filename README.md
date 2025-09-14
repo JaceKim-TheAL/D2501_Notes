@@ -42,6 +42,7 @@ Jace's Key Notes and Documents
 | D2506_02  | LangChain_RAG    | [랭체인과 라그를 활용한 LLM Application 개발                                       ][D2506_02] | 
 | D2507_01  | Mojo             | [AI 개발자를 위한 새로운 프로그래밍 언어 (Python의 사용성과 C++의 성능을 결합한 혁신적인 언어)     ][D2507_01] | 
 | D2508_01  | Kubernetes       | [도커/쿠버네티스를 활용한 컨테이너 개발                                              ][D2508_01] |
+| D2509_01  | Flutter          | [Google에서 개발한 크로스 플랫폼 앱 개발 프레임워크                                   ][D2509_01] |
 
 ---
 [D2501_01]: https://github.com/JaceKim-TheAL/D2501_Notes 
@@ -64,4 +65,5 @@ Jace's Key Notes and Documents
 [D2506_03]: https://github.com/JaceKim-TheAL/D2506_Mojo 
 [D2507_01]: https://github.com/JaceKim-TheAL/D2507_Mojo 
 [D2508_01]: https://github.com/JaceKim-TheAL/D2508_Kubernetes
+[D2509_01]: https://github.com/JaceKim-TheAL/D2509_Flutter
 
