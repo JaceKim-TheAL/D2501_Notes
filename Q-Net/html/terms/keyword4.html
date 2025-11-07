@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>WEBAPP TEST</title>
+  <link rel="stylesheet" href="../../style/sublist.css">
+  <link rel="stylesheet" href="./common/tab_menu.css">
+  <link rel="stylesheet" href="./common/photo_display.css">
+  <style>
+
+  </style>
+</head>
+<!-- https://www.youtube.com/@weekendcode/shorts -->
+<body>
+  <header>
+    <h1>정보처리기사/기술사</h1>
+  </header>
+  
+  <!-- 이미지 레이어 -->
+  <div class="fixed-logo">
+    <a href="https://www.q-net.or.kr/"><img src="../../images/qnet_logo.png" alt="로고" ></a>  
+  </div>
+
+  <!-- 탭메뉴 레이어 -->
+  <br/>
+  <div class="book-tabs">
+    <div class="tab-header">
+      <button onclick="navigateToTab(0)">전문용어</button>
+      <button onclick="navigateToTab(1)">키워드01</button>
+      <button onclick="navigateToTab(2)">키워드02</button>
+      <button onclick="navigateToTab(3)">키워드03</button>
+      <button onclick="navigateToTab(4)">키워드04</button>
+      <button onclick="navigateToTab(5)">키워드05</button>
+    </div>
+
+    <div class="tab-content active">
+      <h2>정보처리기사 및 기술사</h2>
+      <p>키워드1. 네트워크</p>
+      <p>키워드2. 시큐리티</p>
+      <p>키워드3. 데이터베이스</p>
+      <p>키워드4. 프로그래밍</p>
+      <p>키워드5. 최신기술</p>
+    </div>
+    <div class="tab-content">
+      <h2>키워드1. 네트워크</h2>
+      <p></p>
+    </div>
+    <div class="tab-content">
+      <h2>키워드2. 시큐리티</h2>
+      <p></p>
+    </div>
+    <div class="tab-content">
+      <h2>키워드3. 데이터베이스</h2>
+      <p></p>
+    </div>
+    <div class="tab-content">
+      <h2>키워드4. 프로그래밍</h2>
+      <p></p>
+    </div>
+    <div class="tab-content">
+      <h2>키워드5. 최신기술</h2>
+      <p></p>
+    </div>
+  </div>
+  <script src="./common/app_tab_menu.js"></script>
+  <script>
+    // 호출: ./common/app_tab_menu.js
+    showChapter(4);
+
+    // 호출: ./common/app_photo_display.js
+    let imagesCount = 75;
+    let preFilename = "./img/용어정리_"
+    let intervalId = null;
+
+  </script>
+
+  <div class="album-container">
+    <h1>KPOP IDOL</h1>
+    
+    <img id="photoDisplay" src="./img/용어정리_001.png" alt="앨범 사진" height="500px">
+    
+    <div class="controls">
+      <button id="prevBtn">이전</button>
+      <button id="playBtn">▶</button>
+      <button id="nextBtn">다음</button>
+    </div>
+    <div id="playMode" hidden>1</div>
+
+    <p id="counter">1 / 총이미지수</p>
+  </div>
+  <script src="./common/app_photo_display.js"></script> 
+</body>
+</html>
