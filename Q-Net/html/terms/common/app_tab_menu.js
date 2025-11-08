@@ -1,4 +1,4 @@
-termskeywordtab_url_list = [
+tab_url_list = [
   'https://htmlpreview.github.io/?https://raw.githubusercontent.com/JaceKim-TheAL/D2501_Notes/master/Q-Net/html/terms/keyword.html', 
   'https://htmlpreview.github.io/?https://raw.githubusercontent.com/JaceKim-TheAL/D2501_Notes/master/Q-Net/html/terms/keyword1.html', 
   'https://htmlpreview.github.io/?https://raw.githubusercontent.com/JaceKim-TheAL/D2501_Notes/master/Q-Net/html/terms/keyword2.html', 
