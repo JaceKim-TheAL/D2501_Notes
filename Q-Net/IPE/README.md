@@ -14,9 +14,11 @@
 - [정보처리기사 출제기준](./docu/정보처리기사%20출제기준(2020.1.1.~2022.12.31).hwp)
 - [정보처리기사 필기노트](./docu/정보처리기사_01_필기(요약).pdf)
 - [정보처리기사 실기노트](./docu/정보처리기사_02_실기(요약).pdf)
+- [키워드 및 용어풀이][link-keyword]
 
 [link-q-net  ]: https://www.q-net.or.kr/
 [link-intro  ]: ./introduction.md
+[link-keyword]: https://htmlpreview.github.io/?https://raw.githubusercontent.com/JaceKim-TheAL/D2501_Notes/master/Q-Net/html/terms/keyword.html
 
 ### [정보처리기사 C언어, Java, Python, SQL 기출문제 모음](https://complainrevolutionist.tistory.com/38)
 
